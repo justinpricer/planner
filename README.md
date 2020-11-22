@@ -24,6 +24,6 @@ Planner updates every hour on the hour.
 
 ## Review
 
-* Deployed Application - 05-day-planner - https://smrodriguez88.github.io/05-day-planner/
+* Deployed Application - planner - https://justinpricer.github.io/planner/
 
-* Github Repository - 05-day-planner - https://github.com/smrodriguez88/05-day-planner
+* Github Repository - planner - https://github.com/justinpricer/planner
